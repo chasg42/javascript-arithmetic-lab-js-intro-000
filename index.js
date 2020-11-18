@@ -15,6 +15,7 @@ return a/b;
 }
 
 function index(a,b){
-n = n++;
+n = a++;
+return a:
 
 }

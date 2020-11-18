@@ -32,6 +32,6 @@ function makeInt(string){
 
 }
 
-preserveDecimal(string){
+function preserveDecimal(string){
 
 }

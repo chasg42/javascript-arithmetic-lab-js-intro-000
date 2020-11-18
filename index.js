@@ -33,7 +33,7 @@ function makeInt(string,base){
 
 }
 
-function preserveDecimal(string){
-  parseFloat(string);
-  return string;
+function preserveDecimal(string, base){
+  const parsed=parseFloat(string);
+  return parsed;
 }

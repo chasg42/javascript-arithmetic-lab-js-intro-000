@@ -28,8 +28,8 @@ return n;
 }
 
 function makeInt(string,base){
-  parseInt(string, 10);
-  return string;
+  const parsed=parseInt(string, 10);
+  return parsed;
 
 }
 

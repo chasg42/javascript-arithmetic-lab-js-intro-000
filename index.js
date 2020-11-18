@@ -15,6 +15,11 @@ return a/b;
 }
 
 function index(a,b){
-  a =a++;
-  return a;
+
 }
+
+let a = 1;
+const b = a++;
+return a;
+
+

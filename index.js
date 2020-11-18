@@ -15,7 +15,14 @@ return a/b;
 }
 
 function index(a,b){
-n = a++;
-return a;
 
 }
+
+function increment(n){
+  n = +=n;
+  return n;
+  
+}
+
+
+

@@ -27,6 +27,11 @@ n-=1;
 return n;
 }
 
-function parseInt(n){
+function makeInt(string){
+  parseInt(string,10);
+  
+}
 
+preserveDecimal(string){
+  
 }

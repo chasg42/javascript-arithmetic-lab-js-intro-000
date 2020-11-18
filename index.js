@@ -27,6 +27,6 @@ n-=1;
 return n;
 }
 
-function parseInt(n,10){
+function parseInt(n){
 
 }

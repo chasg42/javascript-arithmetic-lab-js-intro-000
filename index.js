@@ -15,8 +15,7 @@ return a/b;
 }
 
 function index(a,b){
-
-let a = 1;
-const b = a++;
+a = a++;
 return a;
+
 }

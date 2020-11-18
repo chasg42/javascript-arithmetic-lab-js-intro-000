@@ -1,19 +1,19 @@
 function add(a,b){
-  add(1,2);
+  
 }
 
-function subtract(){
-
-}
-
-function multiply(){
+function subtract(a,b){
 
 }
 
-function divide(){
+function multiply(a,b){
 
 }
 
-function index(){
+function divide(a,b){
+
+}
+
+function index(a,b){
 
 }
